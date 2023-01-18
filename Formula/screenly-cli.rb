@@ -3,7 +3,6 @@ class ScreenlyCli < Formula
   homepage "https://github.com/Screenly/cli"
   url "https://github.com/Screenly/cli.git",
       tag: "v0.1.3",
-      revision: "60daecfab21d96312afd79d77b7138e54bd04b70"
   version "v0.1.3"
   license "MIT"
 
