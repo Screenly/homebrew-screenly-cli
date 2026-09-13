@@ -3,7 +3,6 @@ class ScreenlyCli < Formula
   homepage "https://github.com/Screenly/cli"
   url "https://github.com/Screenly/cli.git",
       tag: "v26.9.0"
-  version "v26.9.0"
   license "MIT"
 
   depends_on "rust" => :build
