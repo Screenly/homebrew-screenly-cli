@@ -2,8 +2,7 @@ class ScreenlyCli < Formula
   desc "Command line interface is intended for quick interaction with Screenly through terminal."
   homepage "https://github.com/Screenly/cli"
   url "https://github.com/Screenly/cli.git",
-      tag: "v26.8.0"
-  version "v26.8.0"
+      tag: "v26.9.0"
   license "MIT"
 
   depends_on "rust" => :build
