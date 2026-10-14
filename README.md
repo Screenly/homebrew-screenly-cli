@@ -1,9 +1,11 @@
-# homebrew-screenly-cli
+# Screenly CLI Homebrew Tap
 
 [![Homebrew](https://img.shields.io/badge/dynamic/regex?url=https%3A%2F%2Fraw.githubusercontent.com%2FScreenly%2Fhomebrew-screenly-cli%2Fmaster%2FFormula%2Fscreenly-cli.rb&search=tag%3A%20%22v(.*)%22&replace=v%241&label=homebrew)](Formula/screenly-cli.rb)
 [![Screenly CLI](https://img.shields.io/github/v/release/Screenly/cli?label=screenly%2Fcli)](https://github.com/Screenly/cli/releases/latest)
 
-Homebrew formulae for [Screenly CLI](https://github.com/Screenly/cli).
+The official [Homebrew](https://brew.sh) tap for the [Screenly CLI](https://github.com/Screenly/cli),
+a command-line tool for managing Screenly digital signage (screens, assets, playlists,
+Edge Apps) from your terminal.
 
 ## Install
 
